@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 # Download StopWords
- nltk.download('stopwords')
+nltk.download('stopwords')
 
 #Loading the data
 df = pd.read_csv('spam.csv',
