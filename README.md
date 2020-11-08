@@ -5,7 +5,7 @@ The Model used is Naives Bayes and the dataset can be found [here](https://archi
 
 ## Usage
 
-The Web app is hosted on heroku
+The Web app is deployed at [https://streamlit-spam.herokuapp.com/](https://streamlit-spam.herokuapp.com/)
 
 ## Reference
 [Notebook by darshikaverma@kaggle](https://www.kaggle.com/darshikaverma/spam-ham-message-classification-beginner)<br>
