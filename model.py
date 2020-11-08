@@ -3,14 +3,10 @@ import numpy as np
 import pandas as pd
 import string
 import joblib
-#from nltk.corpus import stopwords
-import nltk
+from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
-
-# Download StopWords
-stopwords = nltk.download('stopwords')
 
 #Loading the data
 df = pd.read_csv('spam.csv',
