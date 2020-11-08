@@ -9,4 +9,5 @@ The Web app is deployed at https://streamlit-spam.herokuapp.com/
 
 ## Reference
 [Notebook by darshikaverma@kaggle](https://www.kaggle.com/darshikaverma/spam-ham-message-classification-beginner)<br>
-[Notebook by faressayah@kaggle](https://www.kaggle.com/faressayah/natural-language-processing-nlp-for-beginners)
+[Notebook by faressayah@kaggle](https://www.kaggle.com/faressayah/natural-language-processing-nlp-for-beginners)<br>
+https://github.com/dataprofessor/penguins-heroku
